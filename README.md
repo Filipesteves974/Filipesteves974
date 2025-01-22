@@ -1,6 +1,6 @@
 ## Filipe Esteves - Maths
 
-- 🎓 Mathmatics student at NOVA SST
+- 🎓 Mathematics student at NOVA SST
 - 📊 Specializing in **Operational Recearch**, **Statistics**, and **Numerical Analisis**
 - 💻 Experienced in **Python**
 - 🤺 Fencer on free time
