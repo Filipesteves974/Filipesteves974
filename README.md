@@ -1,6 +1,7 @@
 ## Filipe Esteves - Maths
 
-- 🎓 Mathematics student at NOVA SST
+- 🎓 Data Science student at NOVA IMS
+- BSc in Mathematics at NOVA SST
 - 📊 Specializing in **Operational Recearch**, **Statistics**, and **Numerical Analysis**
 - 💻 Experienced in **Python**
 - 🤺 Fencer on free time
