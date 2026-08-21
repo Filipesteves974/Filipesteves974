@@ -1,7 +1,7 @@
-## Filipe Esteves - Maths
+## Filipe Esteves - Mathematics and Data Science
 
-- 🎓 MSc in Data Science at NOVA IMS
-- BSc in Mathematics at NOVA SST
+- 🎓 MSc in Data Science and Advanced Analytics at NOVA IMS
+- 👨‍🎓 BSc in Mathematics at NOVA SST
 - 📊 Specializing in **Machine Learning**, **Statistics**, **Optimization** and **Big Data**
 - 💻 Experienced in **Python**, **R** and **SQL**
 - 🤺 Fencer on free time
